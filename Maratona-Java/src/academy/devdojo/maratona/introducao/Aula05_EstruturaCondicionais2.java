@@ -10,7 +10,7 @@ public class Aula05_EstruturaCondicionais2 {
         if(idade < 15){
             System.out.println("Categoria Infantil");
         }
-        else if(idade >= 15 && idade < 18){
+        else if(idade >= 15 && idade < 18){ // elif
             System.out.println("Categoria Juvenil");
         } else{
             System.out.println("Categoria Adulto");
