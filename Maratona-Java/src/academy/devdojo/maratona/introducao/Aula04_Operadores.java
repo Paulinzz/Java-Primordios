@@ -49,7 +49,7 @@ public class Aula04_Operadores {
         bonus %= 2;
         System.out.println(bonus);
 
-        // ++ --
+        // ++ --1
         int contador = 0;
         contador += 1; // contador = contador + 1;
         contador++;
